@@ -1,2 +1,2 @@
-# Practice-Coding
-Practice Makes Perfect.....
+#Mail Program
+A simple mail program in PHP
